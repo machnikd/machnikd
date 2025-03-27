@@ -1,16 +1,23 @@
-## Hi there 👋
+Damian Machnik
 
-<!--
-**machnikd/machnikd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Damian Machnik. I hold a Bachelor's degree in Electronics and Telecommunications from the AGH University of Science and Technology in Kraków. Currently, I am pursuing a Master's degree in the same field at AGH.
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Education: Bachelor's in Electronics and Telecommunications (AGH), currently a Master's student.
+
+💻 Skills: Programming in C++, microcontroller development.
+
+🎨 Interests: Microwave technologies, embedded systems, electronics.
+
+🇵🇱 Location: Kraków, Poland.
+
+Contact
+
+✉ Email: damian.machnik33@gmail.com
+
+🌐 LinkedIn: www.linkedin.com/in/damian-machnik-9135b934a
+
+
+Thanks for visiting my profile! 🚀
+
