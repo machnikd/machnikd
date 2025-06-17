@@ -6,7 +6,7 @@ About Me
 
 📚 Education: Bachelor's in Electronics and Telecommunications (AGH), currently a Master's student.
 
-💻 Skills: Programming in C++, microcontroller development.
+💻 Skills: Digital electronics; Programming in C++; microcontroller development; Use of measurement equipment (oscilloscope, spectrum analyzer, VNA); Simulation tools: LTSpice, AWR, Cadence, HFSS; RF and microwave;
 
 🎨 Interests: Microwave technologies, embedded systems, electronics.
 
@@ -14,7 +14,7 @@ About Me
 
 Contact
 
-✉ Email: damian.machnik33@gmail.com
+✉ Email: machnikdamianw@gmail.com
 
 🌐 LinkedIn: www.linkedin.com/in/damian-machnik-9135b934a
 
