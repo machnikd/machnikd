@@ -15,6 +15,7 @@ About Me
 Contact
 
 ✉ Email1: machnikdamianw@gmail.com
+
 ✉ Email2: damian.machnik33@gmail.com
 
 🌐 LinkedIn: www.linkedin.com/in/damian-machnik-9135b934a
